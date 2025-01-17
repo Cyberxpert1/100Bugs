@@ -1,4 +1,4 @@
-# 100Bugbountytips
+# 100 Days Bug Bounty
 ![IMG_20250117_111854](https://github.com/user-attachments/assets/7f8726ff-2f1d-436c-98c5-18786b91668c)
 
 # Day 1 
