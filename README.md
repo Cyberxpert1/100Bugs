@@ -3,3 +3,7 @@
 
 # Day 1 
 ![IMG_20250117_111927](https://github.com/user-attachments/assets/ab094a04-2274-41e8-a817-b41a5e32f04f)
+
+<img src="https://raw.githubusercontent.com/Cyberxpert1/Cyberxpert1/output/snake.svg" alt="Snake animation" />
+
+###
