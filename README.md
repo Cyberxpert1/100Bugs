@@ -1,8 +1,6 @@
-![Uploading IMG_20250118_215923.jpg…]()
+![image_1dd15742-8764-4beb-bb30-0d908a6ee30020230213_105307](https://github.com/user-attachments/assets/634afcab-0bd1-4931-ae74-dee400b40be0)
+# 100 Bug Bounty Series
 
-
-# 100 Bug Bounty Series 
-# Ethics Bytes
 
 # Day 1                                    17-01-2025 
 ![IMG_20250117_111927](https://github.com/user-attachments/assets/ab094a04-2274-41e8-a817-b41a5e32f04f)
@@ -12,4 +10,4 @@
 
 
 # Day 3                                     19-01-2025
-Coming soon........
+Coming@9🕥
