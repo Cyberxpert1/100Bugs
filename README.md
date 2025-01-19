@@ -1,4 +1,4 @@
-![IMG_20250119_212630](https://github.com/user-attachments/assets/8b98d9b2-4202-4ac5-9c61-a845c7f61023)![IMG_20250118_221314](https://github.com/user-attachments/assets/dfe97249-b5fb-439e-acde-18d3e52dce44)
+![IMG_20250119_212630](https://github.com/user-attachments/assets/8b98d9b2-4202-4ac5-9c61-a845c7f61023)
 
 # 100 Bugs           #Series 101
 
@@ -18,8 +18,10 @@ coming 9:00 pm
 # Day 5                                     21-01-2025    
 21-01-2025 9:00 pm
 
-# Day 6
+# Day 6                                     22-01-2025
+22-01-2025 9:00 pm 
 
-# Day 7 
+# Day 7                                     23-01-2025
+23-01-2025 9:00 pm 
 
 # 100 Bugs 
