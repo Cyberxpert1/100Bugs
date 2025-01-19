@@ -1,6 +1,7 @@
-![IMG_20250118_221314](https://github.com/user-attachments/assets/dfe97249-b5fb-439e-acde-18d3e52dce44)
+![IMG_20250119_212630](https://github.com/user-attachments/assets/8b98d9b2-4202-4ac5-9c61-a845c7f61023)![IMG_20250118_221314](https://github.com/user-attachments/assets/dfe97249-b5fb-439e-acde-18d3e52dce44)
 
-# 100 Bug Bounty Series
+# 100 Bugs           #Series 101
+
 # Day 1                                    17-01-2025 
 ![IMG_20250117_111927](https://github.com/user-attachments/assets/ab094a04-2274-41e8-a817-b41a5e32f04f)
 
@@ -9,3 +10,16 @@
 
 
 # Day 3                                     19-01-2025
+![IMG_20250119_212404](https://github.com/user-attachments/assets/6ca92ebc-fa9d-4a0a-b5d9-3a209068c9d5)
+
+# Day 4                                     20-01-2025
+coming 9:00 pm
+
+# Day 5                                     21-01-2025    
+21-01-2025 9:00 pm
+
+# Day 6
+
+# Day 7 
+
+# 100 Bugs 
