@@ -21,7 +21,8 @@
 
 
 # Day 6                                     22-01-2025
-22-01-2025 9:00 pm 
+![IMG_20250122_181610](https://github.com/user-attachments/assets/bea7763d-5c2b-4df2-8af4-a119cd814878)
+
 
 # Day 7                                     23-01-2025
 23-01-2025 9:00 pm 
