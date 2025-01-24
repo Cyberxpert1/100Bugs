@@ -28,9 +28,12 @@
 ![IMG_20250123_234158](https://github.com/user-attachments/assets/68960adc-d62a-4726-bce0-13e29f36416e)
 
 # Day 8                                     24-01-2025
+![IMG_20250124_225508](https://github.com/user-attachments/assets/077f8b69-8682-481f-9c4e-589461f02aec)
 
-# Day 9
+# Day 9                                      25-01-2025
 
-# Day 10 
+# Day 10                                     26-01-2025
+
+# Day 11                                     27-01-2025
 
 # 100 Bugs 
