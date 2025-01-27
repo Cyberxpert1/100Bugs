@@ -36,6 +36,7 @@
 ![IMG_20250126_145113](https://github.com/user-attachments/assets/702a8c94-fe76-4f52-8660-4e8c066760fe)
 
 # Day 11                                      27-01-2025
+![photo_2025-01-27_00-29-22 (2)](https://github.com/user-attachments/assets/79b84e9b-5e31-41aa-b511-cf78faf7b780)
 
 # Day 12                                      28-01-2025
 
