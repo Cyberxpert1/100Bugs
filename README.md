@@ -39,6 +39,7 @@
 ![photo_2025-01-27_00-29-22 (2)](https://github.com/user-attachments/assets/79b84e9b-5e31-41aa-b511-cf78faf7b780)
 
 # Day 12                                      28-01-2025
+![Screenshot 2025-01-29 105944](https://github.com/user-attachments/assets/fe140408-d249-4dc1-929a-49817f6b0213)
 
 # Day 13                                      29-01-2025
 
