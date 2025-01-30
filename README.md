@@ -42,18 +42,20 @@
 ![Screenshot 2025-01-29 105944](https://github.com/user-attachments/assets/fe140408-d249-4dc1-929a-49817f6b0213)
 
 # Day 13                                       29-01-2025
-Extract all endpoints from a JS File and take your bug 🐞
-✅Method one
-waybackurls HOSTS | tac | sed "s#\\\/#\/#g" | egrep -o "src['\"]?
-15*[=: 1\5*[ '\"]?[^'\"]+.js[^'|"> ]*" | awk -F '/'
-'{if(length($2))print "https://"$2}' | sort -fu | xargs -I '%' sh
--c "curl -k -s \"%)" | sed \"s/[;}\)>]/\n/g\" | grep -Po \" (L'1|\"](https?: )?[/1{1,2}[^'||l"> 1{5,3)|(\.
-(get|post|ajax|load)\s*\(\5*['||\"](https?:)?[/1{1,2}[^'||\"> ]
-{5,})\"" | awk -F "['|"]" '{print $2}' sort -fu
-✅Method two
-cat JS.txt | grep -aop "(?<=(\"|\'|' ))\/[a-zA-Z0-9?&=\/-#.](?= (\"||'|'))" | sort -u | tee JS.txt
+    Extract all endpoints from a JS File and take your bug 🐞
+    
+    ✅Method one
+     waybackurls HOSTS | tac | sed "s#\\\/#\/#g" | egrep -o "src['\"]?
+     15*[=: 1\5*[ '\"]?[^'\"]+.js[^'|"> ]*" | awk -F '/'
+     '{if(length($2))print "https://"$2}' | sort -fu | xargs -I '%' sh
+      -c "curl -k -s \"%)" | sed \"s/[;}\)>]/\n/g\" | grep -Po \"              (L'1|\"] (https?:)?[/1{1,2}[^'||l"> 1{5,3)|(\.
+     (get|post|ajax|load)\s*\(\5*['||\"](https?:)?[/1{1,2}[^'||\"> ]
+     {5,})\"" | awk -F "['|"]" '{print $2}' sort -fu
+    ✅Method two
+    cat JS.txt | grep -aop "(?<=(\"|\'|' ))\/[a-zA-Z0-9?&=\/-#.](?=          (\"||'|'))" | sort -u | tee JS.txt
 
 # Day 14                                      30-01-2025
+![IMG_20250130_225202](https://github.com/user-attachments/assets/0a69ef41-d144-4c00-ae2d-5e99f3e0e367)
 
 # Day 15                                      31-01-2025       
 
