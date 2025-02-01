@@ -58,8 +58,11 @@
 ![IMG_20250130_225202](https://github.com/user-attachments/assets/0a69ef41-d144-4c00-ae2d-5e99f3e0e367)
 
 # Day 15                                      31-01-2025       
+![Screenshot 2025-02-01 112052](https://github.com/user-attachments/assets/e6c46e30-4f95-40e7-82ca-a860b9586951)
 
-# Day 16 
+# Day 16                                       01-02-2025
+![Screenshot 2025-02-01 111955](https://github.com/user-attachments/assets/d8485620-51ce-46a5-80d8-8a50d75d4f2f)
+
 
 # Day 17
 
