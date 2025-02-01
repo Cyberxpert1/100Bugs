@@ -1,5 +1,5 @@
-
 # 100 Bugs           #Series 101
+<img width="682" alt="gobig" src="https://github.com/user-attachments/assets/097d63bb-1b54-480e-b11f-95113d3992ba" />
 
 # Day 1                                      17-01-2025 
 ![IMG_20250117_111927](https://github.com/user-attachments/assets/ab094a04-2274-41e8-a817-b41a5e32f04f)
