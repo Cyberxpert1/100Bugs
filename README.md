@@ -63,10 +63,11 @@
 # Day 16                                       01-02-2025
 ![Screenshot 2025-02-01 111955](https://github.com/user-attachments/assets/d8485620-51ce-46a5-80d8-8a50d75d4f2f)
 
+# Day 17                                       02-02-2025
+![IMG_20250202_183406](https://github.com/user-attachments/assets/089a735e-faac-4d35-b9f8-d20dcfb30565)
 
-# Day 17
-
-# Day 18
+# Day 18                                       03-02-2025
+![IMG_20250202_183343](https://github.com/user-attachments/assets/38ed555d-d435-4169-90f4-c7d82a2179ec)
 
 # Day 19 
 
