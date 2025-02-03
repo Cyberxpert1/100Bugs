@@ -69,14 +69,29 @@
 # Day 18                                       03-02-2025
 ![IMG_20250202_183343](https://github.com/user-attachments/assets/38ed555d-d435-4169-90f4-c7d82a2179ec)
 
-# Day 19 
+# Day 19                                       04-02-2025
 
-# Day 20
+# Day 20                                       05-02-2025
 
+# Day 21                                       06-02-2025
 
+# Day 22                                       07-02-2025
 
+# Day 23                                       08-02-2025
 
+# Day 24                                       09-02-2025
 
+# Day 25                                       10-02-2025
+
+# Day 26
+
+# Day 27 
+
+# Day 28 
+
+# Day 29 
+
+# Day 30 
 
 
 # 100 Bugs 
