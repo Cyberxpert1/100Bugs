@@ -70,6 +70,7 @@
 ![IMG_20250202_183343](https://github.com/user-attachments/assets/38ed555d-d435-4169-90f4-c7d82a2179ec)
 
 # Day 19                                       04-02-2025
+![IMG_20250204_203831](https://github.com/user-attachments/assets/34175aea-e0f0-4992-8bce-f21f105ed269)
 
 # Day 20                                       05-02-2025
 
