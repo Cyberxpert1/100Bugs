@@ -73,10 +73,13 @@
 ![IMG_20250204_203831](https://github.com/user-attachments/assets/34175aea-e0f0-4992-8bce-f21f105ed269)
 
 # Day 20                                       05-02-2025
+![IMG_20250206_214014](https://github.com/user-attachments/assets/5200d5b7-d83c-4553-8c5f-46c7dc628c72)
 
 # Day 21                                       06-02-2025
+![IMG_20250206_214323](https://github.com/user-attachments/assets/0fe35fb5-ed0e-43e8-8afe-8cce0c16dec4)
 
 # Day 22                                       07-02-2025
+![IMG_20250206_214447](https://github.com/user-attachments/assets/b6066036-f07d-40af-960f-a9b66e105e87)
 
 # Day 23                                       08-02-2025
 
