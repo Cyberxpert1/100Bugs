@@ -82,6 +82,7 @@
 ![IMG_20250206_214447](https://github.com/user-attachments/assets/b6066036-f07d-40af-960f-a9b66e105e87)
 
 # Day 23                                       08-02-2025
+![photo_2025-02-11_09-57-12](https://github.com/user-attachments/assets/b3d9e6ab-d793-4376-a7b4-9f695650efe0)
 
 # Day 24                                       09-02-2025
 
