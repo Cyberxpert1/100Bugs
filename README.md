@@ -91,6 +91,7 @@
 ![photo_2024-07-04_22-16-29](https://github.com/user-attachments/assets/3460c255-3b44-4e03-9801-21b52d865db5)
 
 # Day 26                                       11-02-2025
+![Screenshot 2025-02-13 105642](https://github.com/user-attachments/assets/31916594-1e15-49f7-b79a-4f224dab00ac)
 
 # Day 27                                       12-02-2025
 
