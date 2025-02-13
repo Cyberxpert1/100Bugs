@@ -85,14 +85,16 @@
 ![photo_2025-02-11_09-57-12](https://github.com/user-attachments/assets/b3d9e6ab-d793-4376-a7b4-9f695650efe0)
 
 # Day 24                                       09-02-2025
+![photo_2025-02-03_23-08-50](https://github.com/user-attachments/assets/2ef12fba-3d08-4041-97fd-66688ab6b084)
 
 # Day 25                                       10-02-2025
+![photo_2024-07-04_22-16-29](https://github.com/user-attachments/assets/3460c255-3b44-4e03-9801-21b52d865db5)
 
-# Day 26
+# Day 26                                       11-02-2025
 
-# Day 27 
+# Day 27                                       12-02-2025
 
-# Day 28 
+# Day 28                                       13-02-2025
 
 # Day 29 
 
