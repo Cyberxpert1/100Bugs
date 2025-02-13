@@ -94,10 +94,13 @@
 ![Screenshot 2025-02-13 105642](https://github.com/user-attachments/assets/31916594-1e15-49f7-b79a-4f224dab00ac)
 
 # Day 27                                       12-02-2025
+![servicenow](https://github.com/user-attachments/assets/bfb64ed8-fff5-49db-b7b4-e1f4d88de720)
 
 # Day 28                                       13-02-2025
+![photo_2024-07-14_20-55-31](https://github.com/user-attachments/assets/a43f7dc6-71ac-43e7-a981-fdc4dae079a6)
 
-# Day 29 
+# Day 29                                        14-02-2025
+![photo_2024-07-04_22-16-29](https://github.com/user-attachments/assets/888d81cd-97af-462c-9c28-c43b5eb0f2ac)
 
 # Day 30 
 
