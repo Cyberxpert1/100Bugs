@@ -102,7 +102,8 @@
 # Day 29                                        14-02-2025
 ![photo_2024-07-04_22-16-29](https://github.com/user-attachments/assets/888d81cd-97af-462c-9c28-c43b5eb0f2ac)
 
-# Day 30 
+# Day 30                                        15-03-2025
 
+![IMG_20250215_114501](https://github.com/user-attachments/assets/bf59ddb5-dfc9-4c31-a6a8-0c91e40334e5)
 
 # 100 Bugs 
