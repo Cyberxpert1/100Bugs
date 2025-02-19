@@ -111,8 +111,10 @@
 # Day 32                                       17-02-2025 
 ![photo_2025-02-16_11-21-35](https://github.com/user-attachments/assets/73367c27-4100-4a9c-94e6-a61dab4ceab5)
 
-# Day 33
+# Day 33                                       18-02-2025
+![photo_2025-02-17_23-56-43](https://github.com/user-attachments/assets/f5d5ab1c-4950-41e0-924a-d4353ef6e95f)
 
-# Day 34 
+# Day 34                                       19-02-2025
+![photo_2025-02-19_08-53-36](https://github.com/user-attachments/assets/9b6bfd8f-d165-41d2-9749-3553c1730b92)
 
 # Day 35
